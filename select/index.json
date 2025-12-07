@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホワット・メイクス・ユー・ビューティフル",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-07T07:27:17.242078Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What Makes You Beautiful",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_What_Makes_You_Beautiful_One_Direction.txt"
+    }
+  ]
+}
